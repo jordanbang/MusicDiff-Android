@@ -21,4 +21,4 @@ bin/res/drawable-xxhdpi/ic_launcher.png
 bin/resources.ap_
 gen/com/jordanbang/musicdiff/BuildConfig.java
 gen/com/jordanbang/musicdiff/R.java
-res/layout/music_list_item.xml
+
