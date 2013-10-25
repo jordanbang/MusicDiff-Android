@@ -4,5 +4,8 @@
     <string name="app_name">MusicDiff</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="action_info">Info</string>
+    <string name="welcome">Welcome to MusicDiff</string>
+    <string name="welcome_msg">MusicDiff is a system that allows you to keep track of all your music, wherever it is.  By running the MusicDiff Server app off of your main computer (that holds the master music list), MusicDiff Android can sync up to it, so that you can see exactly which songs are where.</string>
 
 </resources>
